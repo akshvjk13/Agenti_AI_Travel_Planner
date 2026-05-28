@@ -36,10 +36,17 @@ destination_city = st.text_input(
     "Destination City"
 )
 
-days = st.text_input(
-    "Number of Days",
-    placeholder="Enter trip duration"
+departure_date = st.date_input(
+    "Departure Date"
 )
+
+return_date = st.date_input(
+    "Return Date"
+)
+
+days = (
+    return_date - departure_date
+).days
 
 # BUTTON
 if st.button("Generate Travel Plan"):
@@ -54,14 +61,10 @@ if st.button("Generate Travel Plan"):
         st.stop()
 
     # VALIDATE DAYS
-    try:
-
-        days = int(days)
-
-    except:
+    if days <= 0:
 
         st.error(
-            "Number of days must be a valid number."
+            "Return date must be after departure date."
         )
 
         st.stop()
@@ -75,6 +78,15 @@ if st.button("Generate Travel Plan"):
             destination_city=destination_city.lower(),
             preference="cheapest"
         )
+        for flight in flights:
+
+            flight["departure_time"] = (
+                str(departure_date) + " 09:00 AM"
+            )
+
+            flight["arrival_time"] = (
+                str(return_date) + " 11:30 AM"
+            )
 
         # HOTELS
         hotels = search_hotels(
@@ -128,8 +140,14 @@ if st.button("Generate Travel Plan"):
         Destination:
         {destination_city}
 
-        Number of Days:
-        {days}
+        Departure Date:
+        {departure_date}
+
+        Return Date:
+        {return_date}
+
+        Trip Duration:
+        {days} days
 
         Flights:
         {flights[:3]}
@@ -162,6 +180,9 @@ if st.button("Generate Travel Plan"):
         - Use proper markdown formatting.
         - Use bullet points where necessary.
         - Keep itinerary realistic.
+        - Do not make up information. Use only the provided data.
+        -Use the user-selected travel dates instead of flight dataset dates.
+        -Do not mention outdated years like 2025.
         """
 
         # AI RESPONSE
