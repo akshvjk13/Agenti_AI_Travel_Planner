@@ -1,0 +1,737 @@
+[
+    {
+    "place_id": "PLC2001",
+    "name": "India Gate",
+    "city": "Delhi",
+    "type": "war memorial",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC2002",
+    "name": "Red Fort",
+    "city": "Delhi",
+    "type": "fort",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC2003",
+    "name": "Qutub Minar",
+    "city": "Delhi",
+    "type": "historical monument",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC2004",
+    "name": "Lotus Temple",
+    "city": "Delhi",
+    "type": "temple",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC2005",
+    "name": "Humayun's Tomb",
+    "city": "Delhi",
+    "type": "heritage site",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC2006",
+    "name": "Akshardham Temple",
+    "city": "Delhi",
+    "type": "spiritual site",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC2007",
+    "name": "Jama Masjid",
+    "city": "Delhi",
+    "type": "mosque",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC2008",
+    "name": "Connaught Place",
+    "city": "Delhi",
+    "type": "shopping market",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC2009",
+    "name": "Chandni Chowk",
+    "city": "Delhi",
+    "type": "market",
+    "rating": 4.3
+},
+{
+    "place_id": "PLC2010",
+    "name": "National Museum",
+    "city": "Delhi",
+    "type": "museum",
+    "rating": 4.5
+},
+   {
+    "place_id": "PLC3001",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "type": "historical monument",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC3002",
+    "name": "Marine Drive",
+    "city": "Mumbai",
+    "type": "tourist attraction",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC3003",
+    "name": "Juhu Beach",
+    "city": "Mumbai",
+    "type": "beach",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC3004",
+    "name": "Elephanta Caves",
+    "city": "Mumbai",
+    "type": "heritage site",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC3005",
+    "name": "Siddhivinayak Temple",
+    "city": "Mumbai",
+    "type": "temple",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC3006",
+    "name": "Bandra Worli Sea Link",
+    "city": "Mumbai",
+    "type": "bridge attraction",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC3007",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "city": "Mumbai",
+    "type": "heritage railway station",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC3008",
+    "name": "Colaba Causeway",
+    "city": "Mumbai",
+    "type": "shopping market",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC3009",
+    "name": "Haji Ali Dargah",
+    "city": "Mumbai",
+    "type": "religious site",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC3010",
+    "name": "Sanjay Gandhi National Park",
+    "city": "Mumbai",
+    "type": "national park",
+    "rating": 4.5
+},
+    {
+    "place_id": "PLC4001",
+    "name": "Baga Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC4002",
+    "name": "Calangute Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC4003",
+    "name": "Dudhsagar Waterfalls",
+    "city": "Goa",
+    "type": "waterfall",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC4004",
+    "name": "Fort Aguada",
+    "city": "Goa",
+    "type": "fort",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC4005",
+    "name": "Basilica of Bom Jesus",
+    "city": "Goa",
+    "type": "church",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC4006",
+    "name": "Anjuna Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC4007",
+    "name": "Chapora Fort",
+    "city": "Goa",
+    "type": "fort",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC4008",
+    "name": "Palolem Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC4009",
+    "name": "Candolim Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC4010",
+    "name": "Casino Cruise Goa",
+    "city": "Goa",
+    "type": "entertainment",
+    "rating": 4.3
+},
+    {
+    "place_id": "PLC5001",
+    "name": "Lalbagh Botanical Garden",
+    "city": "Bangalore",
+    "type": "botanical garden",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC5002",
+    "name": "Cubbon Park",
+    "city": "Bangalore",
+    "type": "park",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC5003",
+    "name": "Bangalore Palace",
+    "city": "Bangalore",
+    "type": "palace",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC5004",
+    "name": "ISKCON Temple Bangalore",
+    "city": "Bangalore",
+    "type": "temple",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC5005",
+    "name": "Wonderla Bangalore",
+    "city": "Bangalore",
+    "type": "amusement park",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC5006",
+    "name": "Bannerghatta National Park",
+    "city": "Bangalore",
+    "type": "national park",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC5007",
+    "name": "Vidhana Soudha",
+    "city": "Bangalore",
+    "type": "government landmark",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC5008",
+    "name": "Commercial Street",
+    "city": "Bangalore",
+    "type": "shopping market",
+    "rating": 4.3
+},
+{
+    "place_id": "PLC5009",
+    "name": "Ulsoor Lake",
+    "city": "Bangalore",
+    "type": "lake",
+    "rating": 4.2
+},
+{
+    "place_id": "PLC5010",
+    "name": "Nandi Hills",
+    "city": "Bangalore",
+    "type": "hill station",
+    "rating": 4.7
+},
+    {
+    "place_id": "PLC6001",
+    "name": "Marina Beach",
+    "city": "Chennai",
+    "type": "beach",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC6002",
+    "name": "Kapaleeshwarar Temple",
+    "city": "Chennai",
+    "type": "temple",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC6003",
+    "name": "Fort St. George",
+    "city": "Chennai",
+    "type": "historical fort",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC6004",
+    "name": "Government Museum Chennai",
+    "city": "Chennai",
+    "type": "museum",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC6005",
+    "name": "Santhome Basilica",
+    "city": "Chennai",
+    "type": "church",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC6006",
+    "name": "Elliot's Beach",
+    "city": "Chennai",
+    "type": "beach",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC6007",
+    "name": "Valluvar Kottam",
+    "city": "Chennai",
+    "type": "monument",
+    "rating": 4.3
+},
+{
+    "place_id": "PLC6008",
+    "name": "Arignar Anna Zoological Park",
+    "city": "Chennai",
+    "type": "zoo",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC6009",
+    "name": "DakshinaChitra",
+    "city": "Chennai",
+    "type": "heritage museum",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC6010",
+    "name": "Mahabalipuram",
+    "city": "Chennai",
+    "type": "heritage site",
+    "rating": 4.7
+},
+    {
+    "place_id": "PLC1001",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "type": "historical monument",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC1002",
+    "name": "Golconda Fort",
+    "city": "Hyderabad",
+    "type": "fort",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC1003",
+    "name": "Ramoji Film City",
+    "city": "Hyderabad",
+    "type": "entertainment park",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC1004",
+    "name": "Hussain Sagar Lake",
+    "city": "Hyderabad",
+    "type": "lake",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC1005",
+    "name": "Birla Mandir",
+    "city": "Hyderabad",
+    "type": "temple",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC1006",
+    "name": "Salar Jung Museum",
+    "city": "Hyderabad",
+    "type": "museum",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC1007",
+    "name": "Nehru Zoological Park",
+    "city": "Hyderabad",
+    "type": "zoo",
+    "rating": 4.3
+},
+{
+    "place_id": "PLC1008",
+    "name": "Shilparamam",
+    "city": "Hyderabad",
+    "type": "cultural village",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC1009",
+    "name": "Chowmahalla Palace",
+    "city": "Hyderabad",
+    "type": "palace",
+    "rating": 4.5
+    },
+{
+    "place_id": "PLC1010",
+    "name": "Tank Bund",
+    "city": "Hyderabad",
+    "type": "tourist attraction",
+    "rating": 4.2
+},
+    {
+    "place_id": "PLC7001",
+    "name": "Victoria Memorial",
+    "city": "Kolkata",
+    "type": "museum",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC7002",
+    "name": "Howrah Bridge",
+    "city": "Kolkata",
+    "type": "bridge attraction",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC7003",
+    "name": "Dakshineswar Kali Temple",
+    "city": "Kolkata",
+    "type": "temple",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC7004",
+    "name": "Indian Museum",
+    "city": "Kolkata",
+    "type": "museum",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC7005",
+    "name": "Eco Park",
+    "city": "Kolkata",
+    "type": "park",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC7006",
+    "name": "Science City",
+    "city": "Kolkata",
+    "type": "science museum",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC7007",
+    "name": "Park Street",
+    "city": "Kolkata",
+    "type": "shopping and food street",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC7008",
+    "name": "Belur Math",
+    "city": "Kolkata",
+    "type": "spiritual site",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC7009",
+    "name": "Marble Palace",
+    "city": "Kolkata",
+    "type": "palace",
+    "rating": 4.3
+},
+{
+    "place_id": "PLC7010",
+    "name": "Prinsep Ghat",
+    "city": "Kolkata",
+    "type": "riverside attraction",
+    "rating": 4.5
+},
+    {
+    "place_id": "PLC8001",
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "type": "historical palace",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC8002",
+    "name": "Amber Fort",
+    "city": "Jaipur",
+    "type": "fort",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC8003",
+    "name": "City Palace",
+    "city": "Jaipur",
+    "type": "palace",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC8004",
+    "name": "Jantar Mantar",
+    "city": "Jaipur",
+    "type": "observatory",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC8005",
+    "name": "Nahargarh Fort",
+    "city": "Jaipur",
+    "type": "fort",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC8006",
+    "name": "Jal Mahal",
+    "city": "Jaipur",
+    "type": "lake palace",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC8007",
+    "name": "Albert Hall Museum",
+    "city": "Jaipur",
+    "type": "museum",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC8008",
+    "name": "Birla Mandir Jaipur",
+    "city": "Jaipur",
+    "type": "temple",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC8009",
+    "name": "Jaigarh Fort",
+    "city": "Jaipur",
+    "type": "fort",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC8010",
+    "name": "Bapu Bazaar",
+    "city": "Jaipur",
+    "type": "shopping market",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC9001",
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "type": "heritage monument",
+    "rating": 4.9
+},
+{
+    "place_id": "PLC9002",
+    "name": "Agra Fort",
+    "city": "Agra",
+    "type": "fort",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC9003",
+    "name": "Mehtab Bagh",
+    "city": "Agra",
+    "type": "garden",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9004",
+    "name": "Fatehpur Sikri",
+    "city": "Agra",
+    "type": "heritage site",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9005",
+    "name": "Itimad-ud-Daulah",
+    "city": "Agra",
+    "type": "historical monument",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9101",
+    "name": "Fort Kochi",
+    "city": "Kochi",
+    "type": "heritage area",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC9102",
+    "name": "Chinese Fishing Nets",
+    "city": "Kochi",
+    "type": "tourist attraction",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9103",
+    "name": "Mattancherry Palace",
+    "city": "Kochi",
+    "type": "museum",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC9104",
+    "name": "Marine Drive Kochi",
+    "city": "Kochi",
+    "type": "waterfront attraction",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9105",
+    "name": "Cherai Beach",
+    "city": "Kochi",
+    "type": "beach",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9201",
+    "name": "Solang Valley",
+    "city": "Manali",
+    "type": "adventure destination",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC9202",
+    "name": "Rohtang Pass",
+    "city": "Manali",
+    "type": "mountain pass",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC9203",
+    "name": "Hadimba Temple",
+    "city": "Manali",
+    "type": "temple",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9204",
+    "name": "Mall Road Manali",
+    "city": "Manali",
+    "type": "shopping street",
+    "rating": 4.4
+},
+{
+    "place_id": "PLC9205",
+    "name": "Jogini Waterfalls",
+    "city": "Manali",
+    "type": "waterfall",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9301",
+    "name": "The Ridge",
+    "city": "Shimla",
+    "type": "tourist attraction",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC9302",
+    "name": "Mall Road Shimla",
+    "city": "Shimla",
+    "type": "shopping street",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9303",
+    "name": "Jakhoo Temple",
+    "city": "Shimla",
+    "type": "temple",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9304",
+    "name": "Kufri",
+    "city": "Shimla",
+    "type": "hill station",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9305",
+    "name": "Christ Church Shimla",
+    "city": "Shimla",
+    "type": "church",
+    "rating": 4.5
+},
+{
+    "place_id": "PLC9501",
+    "name": "Kashi Vishwanath Temple",
+    "city": "Varanasi",
+    "type": "temple",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC9502",
+    "name": "Dashashwamedh Ghat",
+    "city": "Varanasi",
+    "type": "ghat",
+    "rating": 4.8
+},
+{
+    "place_id": "PLC9503",
+    "name": "Assi Ghat",
+    "city": "Varanasi",
+    "type": "ghat",
+    "rating": 4.6
+},
+{
+    "place_id": "PLC9504",
+    "name": "Sarnath",
+    "city": "Varanasi",
+    "type": "buddhist heritage site",
+    "rating": 4.7
+},
+{
+    "place_id": "PLC9505",
+    "name": "Banaras Hindu University",
+    "city": "Varanasi",
+    "type": "educational landmark",
+    "rating": 4.5
+}
+]
